@@ -1,4 +1,4 @@
-baseURL = "https://blog.fleetingtimer.top"
+baseURL = "https://fleetingtimer.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
