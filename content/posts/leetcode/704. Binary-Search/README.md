@@ -1,7 +1,7 @@
 +++
-title = 'README'
+title = '704-Binary Search'
 date = 2024-01-29T16:19:34+08:00
-draft = true
+draft = false
 categories = ['LeetCode']
 tags = ['Algorithm', 'Array', 'Binary Search', 'Easy']
 layout = 'page'
