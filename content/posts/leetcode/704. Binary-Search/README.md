@@ -102,7 +102,7 @@ func searchV2(nums []int, target int) int {
 
 变体1: 找到数组中元素等于目标值的数组最左侧索引值
 
-```
+```go
 func searchMinLeft(nums []int, target int) int {
 	left, right := 0, len(nums)
 	var index int = -1
